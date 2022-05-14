@@ -14,3 +14,5 @@ A01252177
 * Programa con el nombre de parabola.py mostrando un programa de un juego de un tiro parabolico utilizando el lenguaje python.
 * Programa con el nombre de memoria.py mostranod un programa de un juego de memoria utilizando el lenguaje python.
 * Dentro de la carpeta de "proyecto" se encuentra el juego final inspirado por el mapeo que utilizamos en el programa de maze (inspiracion que obtuvimos de Freegames) junto con el movimiento de pacman. Ademas se implementaron llaves para desbloquear la salida del laberinto, mostrando al jugadora cuando dicha salida este desbloqueada. Una vez que el jugador termine de recolectar las diferentes llaves, y salga del laberinto se le muestra una pantalla de victoria terminando el juego. Utilizando lenguaje python.
+* Video de presentacion: https://youtu.be/10qkAahTbsA
+
